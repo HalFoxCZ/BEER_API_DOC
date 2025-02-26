@@ -1,5 +1,7 @@
 # Doc for Info endpoint:
 
+[Back](README.md) to README.md
+
 
 > https://bohmda22.sps-prosek.cz/__BEERAPI__/API/v1/info.php
 
