@@ -3,6 +3,7 @@
 
 > https://bohmda22.sps-prosek.cz/__BEERAPI__/API/v1/info.php
 
+All request to this endpoint <b>MUST</b> be a post requests
 
 
 ## Paramters for request:
@@ -11,6 +12,8 @@
 | user    | Value of your user ID           | For testing: 1    |
 | auth    | Your api key                    | For testing: YYXD |
 | request | Name of request you want to get |                   |
+|---------|---------------------------------|-------------------|
+
 | table   | For table specific request      | <b>Not required</b>|
 
 ## Allowed request:
