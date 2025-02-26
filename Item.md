@@ -1,4 +1,4 @@
-# Doc for Info endpoint:
+# Doc for Item endpoint:
 
 [Back](README.md) to README.md
 
