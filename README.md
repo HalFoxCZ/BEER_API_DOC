@@ -1,7 +1,11 @@
 # BEER_API_DOC
 Documentation for my BEER_API
-##
-Working request URI:
+
+## Current version used: <b>v3</b>
+
+## Working request URI:
+
+
 ### Version 1 and higher :
 
 > https://bohmda22.sps-prosek.cz/__BEERAPI__/API/v1/info.php  - [Doc](Info.md)
