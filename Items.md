@@ -10,6 +10,8 @@ All request <b>MUST</b> be via POST request
 
 | Paramter | Ifno | Comment | Datatype |
 |---------|------|----------|-----------|
+| user    | Value of your user ID           | For testing: 1    |  Int               |
+| auth    | Your api key                    | For testing: YYXD |  String            |
 | Page     |Number of page you want | | Int|
 | Limit | Number of items per page | Max value 50 | Int |
 |Sort | What order you want items to be |Values: ASC, DESC| String |
