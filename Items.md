@@ -11,8 +11,11 @@ Paramters under dashed line doesnt need to be included on this endpoint, but its
 
 ## Default values:
 > Page : 1
+> 
 > Limit : 10
+> 
 > Sort : ASC
+> 
 > Order: id
 
 
