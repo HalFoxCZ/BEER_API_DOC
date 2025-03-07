@@ -2,6 +2,9 @@
 
 [Back](README.md) to README.md
 
+> Endpoint : https://bohmda22.sps-prosek.cz/__BEERAPI__/API/v1/items.php
+
+
 This endpoint returns array of items from DB
 
 All request <b>MUST</b> be via POST request
