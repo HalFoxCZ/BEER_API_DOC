@@ -10,4 +10,6 @@ All request to this endpoint <b>MUST</b> be via post request
 
 |Parametr | Info | Comment | Datatype|
 |-|-|-|-|
+| user    | Value of your user ID           | For testing: 1    |  Int               |
+| auth    | Your api key                    | For testing: YYXD |  String            |
 |ID| ID of item you want to recieve info about | You can get ID from the <b>[Items](Items.md)</b> endpoint  | Int |
