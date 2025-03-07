@@ -13,4 +13,4 @@ All request <b>MUST</b> be via POST request
 | Page     |Number of page you want | | Int|
 | Limit | Number of items per page | Max value 50 | Int |
 |Sort | What order you want items to be |Values: ASC, DESC| String |
-|Order| By what value to order items | | String |
+|Order| By what value to order items |Values: id, name, date| String |
