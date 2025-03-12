@@ -16,3 +16,5 @@ All request to this endpoint <b>MUST</b> be via post request
 | user    | Value of your user ID           | For testing: 1    |  Int               |
 | auth    | Your api key                    | For testing: YYXD |  String            |
 |ID| ID of item you want to recieve info about | You can get ID from the <b>[Items](Items.md)</b> endpoint  | Int |
+|----------|--------------------------------------------|---------------------------------------------|------------------|----------|
+|Scope| How much information you  want to get | <b>Default</b>, Extended, Full | String |
