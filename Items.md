@@ -9,8 +9,7 @@ This endpoint returns array of items from DB
 
 All request <b>MUST</b> be via POST request
 
-Paramters under dashed line doesnt need to be included on this endpoint, but its recomended to include them even though they have default values set. 
-
+Paramters under dashed line doesnt need to be included on this endpoint, but its recomended to include them even though they have default values set. Bold values are default.
 
 ## Default values:
 > Page : 1
@@ -30,6 +29,6 @@ Paramters under dashed line doesnt need to be included on this endpoint, but its
 | auth    | Your api key                    | For testing: YYXD |  String            |
 |---------|--------------------------------------------|--------------------------------|--------------------|
 | Page     |Number of page you want | | Int|
-| Limit | Number of items per page | Max value 50 | Int |
-|Sort | What order you want items to be |Values: ASC, DESC| String |
-|Order| By what value to order items |Values: id, name, date| String |
+| Limit | Number of items per page | Max value 50 (<b>10</b>)| Int |
+|Sort | What order you want items to be |Values: <b>ASC</b>, DESC| String |
+|Order| By what value to order items |Values: <b>id</b>, name, date| String |
