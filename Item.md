@@ -9,6 +9,10 @@ This ednpoint returns array of all info about specified item
 
 All request to this endpoint <b>MUST</b> be via post request
 
+
+Paramters under dashed line doesnt need to be included on this endpoint, but its recomended to include them even though they have default values set.
+
+
 ## Pamaters:
 
 |Parametr | Info | Comment | Datatype|
@@ -17,4 +21,4 @@ All request to this endpoint <b>MUST</b> be via post request
 | auth    | Your api key                    | For testing: YYXD |  String            |
 |ID| ID of item you want to recieve info about | You can get ID from the <b>[Items](Items.md)</b> endpoint  | Int |
 |----------|--------------------------------------------|---------------------------------------------|------------------|----------|
-|Scope| How much information you  want to get | <b>Default</b>, Extended, Full | String |
+|Scope| How much information you  want to get |Values: <b>Default</b>, Extended, Full | String |
