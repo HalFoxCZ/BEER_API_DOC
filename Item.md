@@ -27,7 +27,7 @@ Paramters under dashed line doesnt need to be included on this endpoint, but its
 ## Returned JSON:
 
 
-# Scope - Default
+### Scope - Default
 ```
  "headers": "Content-Type: application/json; charset=utf-8",
     "url": "/__BEERAPI__/API/v3/item.php",
@@ -48,7 +48,7 @@ Paramters under dashed line doesnt need to be included on this endpoint, but its
 }
 ```
 
-# Scope - Extended
+### Scope - Extended
 ```
 {
     "headers": "Content-Type: application/json; charset=utf-8",
@@ -75,7 +75,7 @@ Paramters under dashed line doesnt need to be included on this endpoint, but its
 
 ```
 
-# Scope - Full
+### Scope - Full
 ```
 {
     "headers": "Content-Type: application/json; charset=utf-8",
