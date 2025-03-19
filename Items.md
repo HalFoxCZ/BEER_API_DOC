@@ -32,3 +32,47 @@ Paramters under dashed line doesnt need to be included on this endpoint, but its
 | Limit | Number of items per page | Max value 50 (<b>10</b>)| Int |
 |Sort | What order you want items to be |Values: <b>ASC</b>, DESC| String |
 |Order| By what value to order items |Values: <b>id</b>, name, date| String |
+
+
+## Return JSON
+```
+{
+    "headers": "Content-Type: application/json; charset=utf-8",
+    "url": "/__BEERAPI__/API/v4/items.php",
+    "args": {
+        "page": 5,
+        "limit": 5,
+        "sort": "ASC",
+        "order": "id",
+        "page_count": 49
+    },
+    "data": [
+        {
+            "ID": "21",
+            "name": "Caldera Pale Ale",
+            "rating": "5.5"
+        },
+        {
+            "ID": "22",
+            "name": "Caldera Pale Ale",
+            "rating": "5.5"
+        },
+        {
+            "ID": "23",
+            "name": "Pilot Rock Porter",
+            "rating": "5.8"
+        },
+        {
+            "ID": "24",
+            "name": "Vas Deferens Ale",
+            "rating": "8.1"
+        },
+        {
+            "ID": "25",
+            "name": "Vas Deferens Ale",
+            "rating": "8.1"
+        }
+    ],
+    "time": 0
+}
+```
