@@ -35,6 +35,8 @@ Paramters under dashed line doesnt need to be included on this endpoint, but its
 
 
 ## Return JSON
+
+#- page_count is only returned in version 4 and higher
 ```
 {
     "headers": "Content-Type: application/json; charset=utf-8",
