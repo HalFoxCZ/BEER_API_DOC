@@ -50,29 +50,29 @@ Paramters under dashed line doesnt need to be included on this endpoint, but its
     },
     "data": [
         {
-            "ID": "21",
+            "ID": 21,
             "name": "Caldera Pale Ale",
-            "rating": "5.5"
+            "rating": 5.5
         },
         {
-            "ID": "22",
+            "ID": 22,
             "name": "Caldera Pale Ale",
-            "rating": "5.5"
+            "rating": 5.5
         },
         {
-            "ID": "23",
+            "ID": 23,
             "name": "Pilot Rock Porter",
-            "rating": "5.8"
+            "rating": 5.8
         },
         {
-            "ID": "24",
+            "ID": 24,
             "name": "Vas Deferens Ale",
-            "rating": "8.1"
+            "rating": 8.1
         },
         {
-            "ID": "25",
+            "ID": 25,
             "name": "Vas Deferens Ale",
-            "rating": "8.1"
+            "rating": 8.1
         }
     ],
     "time": 0
