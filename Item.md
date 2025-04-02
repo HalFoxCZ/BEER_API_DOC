@@ -2,7 +2,7 @@
 
 [Back](README.md) to README.md
 
-> Endpoint : https://bohmda22.sps-prosek.cz/__BEERAPI__/API/v3/item.php
+> Endpoint : `https://bohmda22.sps-prosek.cz/__BEERAPI__/API/v3/item.php`
 
 
 This ednpoint returns array of all info about specified item
