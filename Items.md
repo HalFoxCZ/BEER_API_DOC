@@ -2,7 +2,7 @@
 
 [Back](README.md) to README.md
 
-> Endpoint : https://bohmda22.sps-prosek.cz/__BEERAPI__/API/v3/items.php
+> Endpoint : `https://bohmda22.sps-prosek.cz/__BEERAPI__/API/v3/items.php`
 
 
 This endpoint returns array of items from DB
