@@ -18,4 +18,5 @@ Documentation for my BEER_API
 
 In progress:
 
-> None
+> https://bohmda22.sps-prosek.cz/__BEERAPI__/API/v4/search.php - [Doc](Search.md)
+> 
