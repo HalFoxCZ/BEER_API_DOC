@@ -3,7 +3,7 @@
 [Back](README.md) to README.md
 
 
-> Endpoint : https://bohmda22.sps-prosek.cz/__BEERAPI__/API/v1/info.php
+> Endpoint : `https://bohmda22.sps-prosek.cz/__BEERAPI__/API/v1/info.php`
 
 All request to this endpoint <b>MUST</b> be a post requests
 
