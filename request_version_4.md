@@ -4,7 +4,7 @@
 
 Here is step by step tutorial for using this API for it's version 4 and lower.
 
-This tutorial covers fetching request to info endpoint with requesting server info. (> `https://bohmda22.sps-prosek.cz/__BEERAPI__/API/v1/info.php`  - [Doc](Info.md))
+This tutorial covers fetching request to info endpoint with requesting server info. ( `https://bohmda22.sps-prosek.cz/__BEERAPI__/API/v1/info.php`  - [Doc](Info.md))
 
 1. First you need to choose an endpoint you want to request (DUH no shit sherlock)
 2. Then you have to setup your url (I recomend to setup it from this pattern soo it will be easier to update, and can be fetched from DB for updates, etc...) :
