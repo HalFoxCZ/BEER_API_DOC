@@ -38,5 +38,4 @@ curl_close($crl);
 5. Optional - Use json_decode to get usable php array:
 ```
 $php_array = json_decode($return, true);
-
 ```
