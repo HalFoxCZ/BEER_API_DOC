@@ -29,3 +29,14 @@ curl_setopt($crl, CURLOPT_POSTFIELDS, array(
     "request"=> SERVER_INFO // set up what request you want
 ));
 ```
+4. Execute curl, and close connection
+```
+$return = curl_exec($crl);
+
+curl_close($crl);
+```
+5. Optional - Use json_decode to get usable php array:
+```
+$php_array = json_decode($return, true);
+
+```
